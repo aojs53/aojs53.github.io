@@ -4,4 +4,10 @@
 &lt;li&gt;SyntaxHighlitだってバッチリ！&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;code&gt;python
- print "Hello World!!"&lt;/code&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="python"></category></entry></feed>
+ print "Hello World!!"&lt;/code&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;this is another code.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;def __init__(self):
+  pass
+&lt;/pre&gt;&lt;/div&gt;</summary><category term="pelican"></category><category term="python"></category></entry></feed>
