@@ -1,5 +1,5 @@
 Title: Pelicanを使ってみることにする
-Date: 2016-07-21 2:43
+Date: 2016-07-21 22:43
 Category: tech
 Tags: pelican
 Slug: beginning-pelican
