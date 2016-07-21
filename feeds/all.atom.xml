@@ -1,13 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>あ、じゃぁ近況報告でも</title><link href="https://aojs53.github.io/" rel="alternate"></link><link href="https://aojs53.github.io/feeds/all.atom.xml" rel="self"></link><id>https://aojs53.github.io/</id><updated>2016-07-21T22:00:00+09:00</updated><entry><title>最初のPelicanブログ</title><link href="https://aojs53.github.io/first-post.html" rel="alternate"></link><published>2016-07-21T22:00:00+09:00</published><author><name>aojs53</name></author><id>tag:aojs53.github.io,2016-07-21:first-post.html</id><summary type="html">&lt;h1&gt;ペリカン記事のタイトル&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;SyntaxHighlitだってバッチリ！&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;code&gt;python
- print "Hello World!!"&lt;/code&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;this is another code.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;def __init__(self):
-  pass
-&lt;/pre&gt;&lt;/div&gt;</summary><category term="pelican"></category><category term="python"></category></entry></feed>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>あ、じゃぁ近況報告でも</title><link href="https://aojs53.github.io/" rel="alternate"></link><link href="https://aojs53.github.io/feeds/all.atom.xml" rel="self"></link><id>https://aojs53.github.io/</id><updated>2016-07-22T00:00:49Z</updated></feed>
