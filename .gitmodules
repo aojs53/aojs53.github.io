@@ -1,0 +1,12 @@
+[submodule "pelican-themes"]
+	path = pelican-themes
+	url = https://github.com/getpelican/pelican-themes
+[submodule "theme/blue-penguin"]
+	path = theme/blue-penguin
+	url = https://github.com/jody-frankowski/blue-penguin.git
+[submodule "theme/pelican-alchemy"]
+	path = theme/pelican-alchemy
+	url = https://github.com/nairobilug/pelican-alchemy.git
+[submodule "theme/pelican-blueidea"]
+	path = theme/pelican-blueidea
+	url = https://github.com/blueicefield/pelican-blueidea.git
