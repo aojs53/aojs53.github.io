@@ -3,11 +3,14 @@
 from __future__ import unicode_literals
 
 AUTHOR = u'aojs53'
-SITENAME = u'title'
-SITEURL = ''
+SITENAME = u'あ、じゃぁ近況報告でも'
+SITEURL = 'https://aojs53.github.io'
 
 PATH = 'content'
+ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{date:%d}/{slug}.html'
+ARTICLE_URL = '{date:%Y}/{date:%m}/{date:%d}/{slug}.html'
 
+THEME = 'theme/pelican-blueidea'
 TIMEZONE = 'Asia/Tokyo'
 
 DEFAULT_LANG = u'ja'
@@ -20,14 +23,11 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
+LINKS = (('ココログ', 'http://aojs53.txt-nifty.com/aojs53/'),)
+
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (('twitter', 'https://twitter.com/aojs53/'),)
 
 DEFAULT_PAGINATION = 10
 
