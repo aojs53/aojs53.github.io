@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>title</title><link href="aojs53.githubub.io/" rel="alternate"></link><link href="aojs53.githubub.io/feeds/all.atom.xml" rel="self"></link><id>aojs53.githubub.io/</id><updated>2016-07-21T22:00:00+09:00</updated><entry><title>最初のPelicanブログ</title><link href="aojs53.githubub.io/first-post.html" rel="alternate"></link><published>2016-07-21T22:00:00+09:00</published><author><name>aojs53</name></author><id>tag:,2016-07-21:aojs53.githubub.io/first-post.html</id><summary type="html">&lt;h1&gt;ペリカン記事のタイトル&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;SyntaxHighlitだってバッチリ！&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;code&gt;python
+ print "Hello World!!"&lt;/code&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="python"></category></entry></feed>
